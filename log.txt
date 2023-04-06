@@ -1,0 +1,88 @@
+https://yahoo.com.br - online: true
+https://terra.com.br - online: true
+https://www.alura.com.br - online: true
+https://www.google.com - online: true
+https://yahoo.com.br - online: true
+https://terra.com.br - online: true
+https://www.alura.com.br - online: true
+https://www.google.com - online: true
+https://yahoo.com.br - online: true
+https://terra.com.br - online: true
+https://www.alura.com.br - online: true
+https://www.google.com - online: true
+04/04/4000 20:04:04 - https://yahoo.com.br - online: true
+04/04/4000 20:04:04 - https://terra.com.br - online: true
+04/04/4000 20:04:04 - https://www.alura.com.br - online: true
+04/04/4000 20:04:04 - https://www.google.com - online: true
+04/04/4000 20:04:04 - https://yahoo.com.br - online: true
+04/04/4000 20:04:04 - https://terra.com.br - online: true
+04/04/4000 20:04:04 - https://www.alura.com.br - online: true
+04/04/4000 20:04:04 - https://www.google.com - online: true
+04/04/4000 20:04:04 - https://yahoo.com.br - online: true
+04/04/4000 20:04:04 - https://terra.com.br - online: true
+04/04/4000 20:04:04 - https://www.alura.com.br - online: true
+04/04/4000 20:04:04 - https://www.google.com - online: true
+04/04/2023 20:49:34 - https://yahoo.com.br - online: true
+04/04/2023 20:49:35 - https://terra.com.br - online: true
+04/04/2023 20:49:35 - https://www.alura.com.br - online: true
+04/04/2023 20:49:35 - https://www.google.com - online: true
+04/04/2023 20:49:38 - https://yahoo.com.br - online: true
+04/04/2023 20:49:38 - https://terra.com.br - online: true
+04/04/2023 20:49:38 - https://www.alura.com.br - online: true
+04/04/2023 20:49:39 - https://www.google.com - online: true
+04/04/2023 20:49:42 - https://yahoo.com.br - online: true
+04/04/2023 20:49:42 - https://terra.com.br - online: true
+04/04/2023 20:49:42 - https://www.alura.com.br - online: true
+04/04/2023 20:49:42 - https://www.google.com - online: true
+04/04/2023 21:02:52 - https://yahoo.com.br - online: true
+04/04/2023 21:02:53 - https://terra.com.br - online: true
+04/04/2023 21:02:53 - https://www.alura.com.br - online: true
+04/04/2023 21:02:54 - https://www.google.com - online: true
+04/04/2023 21:02:56 - https://yahoo.com.br - online: true
+04/04/2023 21:02:56 - https://terra.com.br - online: true
+04/04/2023 21:02:57 - https://www.alura.com.br - online: true
+04/04/2023 21:02:57 - https://www.google.com - online: true
+04/04/2023 21:03:00 - https://yahoo.com.br - online: true
+04/04/2023 21:03:00 - https://terra.com.br - online: true
+04/04/2023 21:03:00 - https://www.alura.com.br - online: true
+04/04/2023 21:03:01 - https://www.google.com - online: true
+04/04/2023 21:03:47 - https://yahoo.com.br - online: true
+04/04/2023 21:03:47 - https://terra.com.br - online: true
+04/04/2023 21:03:48 - https://www.alura.com.br - online: true
+04/04/2023 21:03:48 - https://www.google.com - online: true
+04/04/2023 21:03:51 - https://yahoo.com.br - online: true
+04/04/2023 21:03:52 - https://terra.com.br - online: true
+04/04/2023 21:03:52 - https://www.alura.com.br - online: true
+04/04/2023 21:03:52 - https://www.google.com - online: true
+04/04/2023 21:03:56 - https://yahoo.com.br - online: true
+04/04/2023 21:03:56 - https://terra.com.br - online: true
+04/04/2023 21:03:56 - https://www.alura.com.br - online: true
+04/04/2023 21:03:56 - https://www.google.com - online: true
+04/04/2023 21:03:59 - https://yahoo.com.br - online: true
+04/04/2023 21:04:00 - https://terra.com.br - online: true
+04/04/2023 21:04:00 - https://www.alura.com.br - online: true
+04/04/2023 21:04:01 - https://www.google.com - online: true
+04/04/2023 21:04:03 - https://yahoo.com.br - online: true
+04/04/2023 21:04:03 - https://terra.com.br - online: true
+04/04/2023 21:04:04 - https://www.alura.com.br - online: true
+04/04/2023 21:04:04 - https://www.google.com - online: true
+04/04/2023 21:04:07 - https://yahoo.com.br - online: true
+04/04/2023 21:04:07 - https://terra.com.br - online: true
+04/04/2023 21:04:07 - https://www.alura.com.br - online: true
+04/04/2023 21:04:08 - https://www.google.com - online: true
+04/04/2023 21:04:11 - https://yahoo.com.br - online: true
+04/04/2023 21:04:11 - https://terra.com.br - online: true
+04/04/2023 21:04:11 - https://www.alura.com.br - online: true
+04/04/2023 21:04:12 - https://www.google.com - online: true
+04/04/2023 21:04:14 - https://yahoo.com.br - online: true
+04/04/2023 21:04:15 - https://terra.com.br - online: true
+04/04/2023 21:04:15 - https://www.alura.com.br - online: true
+04/04/2023 21:04:15 - https://www.google.com - online: true
+04/04/2023 21:04:18 - https://yahoo.com.br - online: true
+04/04/2023 21:04:18 - https://terra.com.br - online: true
+04/04/2023 21:04:18 - https://www.alura.com.br - online: true
+04/04/2023 21:04:19 - https://www.google.com - online: true
+04/04/2023 21:04:22 - https://yahoo.com.br - online: true
+04/04/2023 21:04:22 - https://terra.com.br - online: true
+04/04/2023 21:04:22 - https://www.alura.com.br - online: true
+04/04/2023 21:04:23 - https://www.google.com - online: true
